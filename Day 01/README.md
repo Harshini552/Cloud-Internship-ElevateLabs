@@ -1,6 +1,6 @@
 ## Task
 
-The today task is to understand cloud object storage basics.
+Today's task is to understand cloud object storage basics.
 Tools: Google Cloud Storage (Free Tier) or AWS S3 (Free Tier).
 
 I am going to use AWS s3 to compelete this task.
@@ -32,4 +32,4 @@ I am going to use AWS s3 to compelete this task.
 ![Image 6](image6.png)
 
 
-- [Click here to viw my offer letter](https://internship-day1.s3.us-east-1.amazonaws.com/Harshini+Offer+letter.pdf)# My Cloud internship jounery in ElevateLabs
+- [Click here to viw my offer letter](https://internship-day1.s3.us-east-1.amazonaws.com/Harshini+Offer+letter.pdf)
