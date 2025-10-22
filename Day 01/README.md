@@ -32,4 +32,4 @@ I am going to use AWS s3 to compelete this task.
 ![Image 6](image6.png)
 
 
-- [Click here to viw my offer letter](https://internship-day1.s3.us-east-1.amazonaws.com/Harshini+Offer+letter.pdf)
+- [Click here to view my offer letter](https://internship-day1.s3.us-east-1.amazonaws.com/Harshini+Offer+letter.pdf)
